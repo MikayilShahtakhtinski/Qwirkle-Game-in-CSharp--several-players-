@@ -1,7 +1,7 @@
 # Qwirkle-Game-in-C#-several-players-
 Implementation of Qwirkle game in C#. Several players can play
 
-The game is composed of 32 tiles marked with
+The game is composed of 32 tiles marked with<br>
 letters A, B, C and D with colors : red, green,
 blue and yellow. Each player has a
 deck of 6 tiles in front of him. The remaining
