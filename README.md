@@ -1,4 +1,7 @@
 # Qwirkle-Game-in-C#-several-players-
+
+Worked with https://github.com/Rza-Ismayil
+
 Implementation of Qwirkle game in C#. Several players can play
 
 The game is composed of 32 tiles marked with<br>
